@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "820317994352",
+    "firebase_url": "https://iotplantcare-default-rtdb.firebaseio.com",
+    "project_id": "iotplantcare",
+    "storage_bucket": "iotplantcare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820317994352:android:a32361706f2691980ee3b5",
+        "android_client_info": {
+          "package_name": "com.example.iotplantcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820317994352-sruab2n710tep55rr3fsa6gvbnb5tip9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdzpKlfz2WXKUpOU1a8ofpGeoAM-4mynA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820317994352-sruab2n710tep55rr3fsa6gvbnb5tip9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
